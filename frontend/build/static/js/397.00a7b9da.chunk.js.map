@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/397.00a7b9da.chunk.js","mappings":"sJAEA,MAQA,EARoBA,KAEhBC,EAAAA,EAAAA,KAAA,S","sources":["pages/LabdoorPage.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst LabdoorPage = () => {\r\n  return (\r\n    <div>\r\n      \r\n    </div>\r\n  )\r\n}\r\n\r\nexport default LabdoorPage\r\n"],"names":["LabdoorPage","_jsx"],"sourceRoot":""}

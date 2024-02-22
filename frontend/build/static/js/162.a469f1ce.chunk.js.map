@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/162.a469f1ce.chunk.js","mappings":"sJAEA,MAQA,EARiBA,KAEbC,EAAAA,EAAAA,KAAA,S","sources":["pages/OurStory.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst OurStory = () => {\r\n  return (\r\n    <div>\r\n      \r\n    </div>\r\n  )\r\n}\r\n\r\nexport default OurStory\r\n"],"names":["OurStory","_jsx"],"sourceRoot":""}

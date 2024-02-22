@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[998],{7998:(e,n,r)=>{r.r(n),r.d(n,{default:()=>c});r(2791);var o=r(1087),s=r(184);const c=()=>(0,s.jsx)("div",{children:(0,s.jsxs)("div",{className:"error-container",children:[(0,s.jsx)("h1",{children:"Oops! Something went wrong."}),(0,s.jsxs)("p",{children:["We apologize for the inconvenience. Go back to ",(0,s.jsx)(o.rU,{to:"/",children:"Home Page"})," "]})]})})}}]);
+//# sourceMappingURL=998.13ddc77b.chunk.js.map

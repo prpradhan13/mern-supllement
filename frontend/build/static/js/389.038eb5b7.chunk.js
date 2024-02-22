@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[389],{8389:(s,a,e)=>{e.r(a),e.d(a,{default:()=>l});var c=e(184);const l=()=>(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{className:"sus_fall",children:(0,c.jsxs)("div",{className:"wrapper",children:[(0,c.jsx)("div",{className:"circle"}),(0,c.jsx)("div",{className:"circle"}),(0,c.jsx)("div",{className:"circle"}),(0,c.jsx)("div",{className:"shadow"}),(0,c.jsx)("div",{className:"shadow"}),(0,c.jsx)("div",{className:"shadow"})]})})})}}]);
+//# sourceMappingURL=389.038eb5b7.chunk.js.map
